@@ -1,8 +1,8 @@
 package Gitbash;
 
-public class Customer {
+public class Staff {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Ankur");
+		System.out.println("Hello Sonu");
 	}
 }
